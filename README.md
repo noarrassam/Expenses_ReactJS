@@ -3,9 +3,12 @@
 # React-JS Project
 
 ## Used
+
+* Functional Component.
+
 * React Fundamentals (Components, props, state, etc).
 
-* React Hooks (useState, useEffect, useContext, useReducer, useRef).
+* React Hooks (useState).
 
 ## Features
 * Add API Expnses.
